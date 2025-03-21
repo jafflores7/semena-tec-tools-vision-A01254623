@@ -1,3 +1,14 @@
+ 
+
+## Como correr el programa:
+En la carpeta "FiltroPersonal" se encuentra el programa "sobel_propio.py" y la imagen "paisaje.jpg".
+En tu terminal/consola entra a la carpeta mencionada y utiliza python para correr el programa.
+El programa necesita un argumento -i en el que se proporcionara la direccion de la imagen
+Tambien se puede añadir un argumento -p para definir un tamaño del padding (Si no se proporciona va a seleccionarse el valor 10 por defecto)
+
+El comando se deberia de ver algo asi:   
+python sobel_propio.py -i paisaje.jpg -p 5
+
 # Sesiones
 
 ## Martes
